@@ -54,3 +54,9 @@ html {
 .form__button:active {
     background-color: rgb(88, 181, 150);
 }
+.right_image {
+    background-image: url("../image/Ludzik.jpg");
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: 82px 146px;
+}
